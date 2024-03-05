@@ -951,7 +951,7 @@ enableEmoji = true
         enable = true
         # owner/repo
         repo = "wuqimotou/wuqimotou.github.io"
-        issueTerm = "pathname"
+        issueTerm = "title"
         label = "[Blog's]"
         lightTheme = "github-light"
         darkTheme = "github-dark"
