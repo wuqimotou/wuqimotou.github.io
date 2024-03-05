@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Draft - 标签 - </title>
+    <link>http://localhost:1313/tags/draft/</link>
+    <description>Draft - 标签 | </description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>wuqimotou@163.com (wuqimotou)</managingEditor>
+      <webMaster>wuqimotou@163.com (wuqimotou)</webMaster><lastBuildDate>Tue, 05 Mar 2024 16:38:27 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/draft/" rel="self" type="application/rss+xml" /><item>
+  <title>Essay</title>
+  <link>http://localhost:1313/posts/6278535/</link>
+  <pubDate>Tue, 05 Mar 2024 16:38:27 &#43;0800</pubDate>
+  <author>wuqimotou</author>
+  <guid>http://localhost:1313/posts/6278535/</guid>
+  <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
