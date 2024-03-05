@@ -11,7 +11,7 @@
 # website title
 title = ""
 # Hostname (and path) to the root
-baseURL = "http://localhost:1313"
+baseURL = "https://wuqimotou.github.io/"
 # theme list
 theme = "FixIt" # enable in your site config file
 # determines default content language ["en", "zh-cn", "fr", "pl", ...]
@@ -470,7 +470,7 @@ enableEmoji = true
   # FixIt 0.2.18 | NEW Breadcrumb config
   [params.breadcrumb]
     enable = true
-    sticky = true
+    sticky = false
     showHome = false
 
   # Footer config
@@ -950,7 +950,7 @@ enableEmoji = true
       [params.page.comment.utterances]
         enable = true
         # owner/repo
-        repo = "wuqimotou/MotouHut.git"
+        repo = "wuqimotou/wuqimotou.github.io"
         issueTerm = "pathname"
         label = "[Blog's]"
         lightTheme = "github-light"
@@ -1114,7 +1114,7 @@ enableEmoji = true
   # FixIt 0.2.14 | NEW GitHub banner in the top-right or top-left corner
   [params.githubCorner]
     enable = true
-    permalink = "https://github.com/wuqimotou/MotouHut.git"
+    permalink = "https://github.com/wuqimotou/wuqimotou.github.io.git"
     title = "传送至GitHub"
     position = "left" # ["left", "right"]
 
@@ -1159,7 +1159,7 @@ enableEmoji = true
   # FixIt 0.2.17 | NEW Define custom file paths
   # Create your custom files in site directory `layouts/partials/custom` and uncomment needed files below
   [params.customFilePath]
-    # aside = "custom/aside.html"
+    aside = "custom/aside.html"
     # profile = "custom/profile.html"
     # footer = "custom/footer.html"
 

@@ -23,5 +23,5 @@
 ---
 
 > 作者:   
-> URL: http://localhost:1313/friends/  
+> URL: https://wuqimotou.github.io/friends/  
 

@@ -36,9 +36,8 @@
 随缘。
 
 
-
 ---
 
 > 作者: wuqimotou  
-> URL: http://localhost:1313/posts/6278535/  
+> URL: https://wuqimotou.github.io/posts/6278535/  
 

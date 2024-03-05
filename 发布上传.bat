@@ -3,7 +3,7 @@
    cd %~dp0
    hugo -F --cleanDestinationDir
    git status
-   git add -a
+   git add -A
    git commit -m "脚本更新博客"
    git push -u MotouHut main
    cd ..
