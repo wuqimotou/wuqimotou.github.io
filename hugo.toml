@@ -9,7 +9,7 @@
 # -------------------------------------------------------------------------------------
 
 # website title
-title = ""
+title = "磨头小屋"
 # Hostname (and path) to the root
 baseURL = "https://wuqimotou.github.io/"
 # theme list
@@ -25,7 +25,7 @@ hasCJKLanguage = true
 # default amount of posts in each pages
 paginate = 12
 # copyright description used only for seo schema
-copyright = ""
+copyright = "wuqimotou"
 # whether to use robots.txt
 enableRobotsTXT = true
 # whether to use git commit log
@@ -344,9 +344,9 @@ enableEmoji = true
   # FixIt 0.2.15 | CHANGED FixIt theme version
   version = "0.3.X" # e.g. "0.2.X", "0.2.15", "v0.2.15" etc.
   # site description
-  description = "这里是磨头的神秘小屋"
+  description = "这里是磨头的神秘小屋，这里会有各种有趣的知识分享。"
   # site keywords
-  keywords = ["motou","java","c++"]
+  keywords = ["motou","java","c++","blog","game"]
   # site default theme ["light", "dark", "auto"]
   defaultTheme = "auto"
   # which hash function used for SRI, when empty, no SRI is used

@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title></title>
+    <title>磨头小屋</title>
     <link>https://wuqimotou.github.io/</link>
-    <description>这里是磨头的神秘小屋</description>
+    <description>这里是磨头的神秘小屋，这里会有各种有趣的知识分享。</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>wuqimotou@163.com (wuqimotou)</managingEditor>
-      <webMaster>wuqimotou@163.com (wuqimotou)</webMaster><lastBuildDate>Tue, 05 Mar 2024 15:43:11 &#43;0800</lastBuildDate>
+      <webMaster>wuqimotou@163.com (wuqimotou)</webMaster><copyright>wuqimotou</copyright><lastBuildDate>Tue, 05 Mar 2024 15:43:11 &#43;0800</lastBuildDate>
       <atom:link href="https://wuqimotou.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
   <title>磨头小屋正式启动啦！</title>
