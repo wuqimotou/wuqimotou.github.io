@@ -1,11 +1,11 @@
 ---
-title: 【从零开始的Java之旅】1什么是Java？关于Java你需要知道的一些事
+title: 【啃透Java基础知识】1什么是Java？关于Java你需要知道的一些事
 subtitle:
 
 date: 2024-03-06T21:16:54+08:00
 slug: 26161e0
 
-description: "从零开始的Java之旅第一期"
+description: "啃透Java基础知识第一期"
 
 keywords: "java, java基础知识, java学习"
 
@@ -14,7 +14,7 @@ draft: false
 comment: false
 
 tags:
-  - 从零开始的Java之旅
+  - 啃透Java基础知识
 
 
 categories:
