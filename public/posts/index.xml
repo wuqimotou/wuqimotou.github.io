@@ -6,35 +6,35 @@
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>wuqimotou@163.com (wuqimotou)</managingEditor>
       <webMaster>wuqimotou@163.com (wuqimotou)</webMaster><copyright>wuqimotou</copyright><lastBuildDate>Sun, 10 Mar 2024 21:32:06 &#43;0800</lastBuildDate><atom:link href="https://wuqimotou.github.io/posts/" rel="self" type="application/rss+xml" /><item>
   <title>你不能不知道的Java注释技巧</title>
-  <link>https://wuqimotou.github.io/posts/26161/</link>
+  <link>https://wuqimotou.github.io/posts/java-annotation-techniques/</link>
   <pubDate>Sun, 10 Mar 2024 21:32:06 &#43;0800</pubDate>
   <author>wuqimotou</author>
-  <guid>https://wuqimotou.github.io/posts/26161/</guid>
+  <guid>https://wuqimotou.github.io/posts/java-annotation-techniques/</guid>
   <description><![CDATA[<p>参考资料：《Java 核心技术卷 I》</p>]]></description>
 </item>
 <item>
   <title>Java编程中关于转义字符\n换行与\r回车的区别</title>
-  <link>https://wuqimotou.github.io/posts/26161/</link>
+  <link>https://wuqimotou.github.io/posts/the-difference-between-%5Cn-and-%5Cr/</link>
   <pubDate>Sun, 10 Mar 2024 12:12:43 &#43;0800</pubDate>
   <author>wuqimotou</author>
-  <guid>https://wuqimotou.github.io/posts/26161/</guid>
+  <guid>https://wuqimotou.github.io/posts/the-difference-between-%5Cn-and-%5Cr/</guid>
   <description><![CDATA[<p>\n和\r有什么区别？</p>]]></description>
 </item>
 <item>
   <title>【啃透Java基础知识】1什么是Java？关于Java你需要知道的一些事</title>
-  <link>https://wuqimotou.github.io/posts/26161/</link>
+  <link>https://wuqimotou.github.io/posts/things-you-need-to-know-about-java/</link>
   <pubDate>Wed, 06 Mar 2024 21:16:54 &#43;0800</pubDate>
   <author>wuqimotou</author>
-  <guid>https://wuqimotou.github.io/posts/26161/</guid>
+  <guid>https://wuqimotou.github.io/posts/things-you-need-to-know-about-java/</guid>
   <description><![CDATA[<p>参考资料：《Java 核心技术卷 I》</p>
 <p>本章简单介绍了一些关于Java的背景知识。</p>]]></description>
 </item>
 <item>
   <title>磨头小屋正式启动啦！</title>
-  <link>https://wuqimotou.github.io/posts/6278535/</link>
+  <link>https://wuqimotou.github.io/posts/start/</link>
   <pubDate>Tue, 05 Mar 2024 15:43:11 &#43;0800</pubDate>
   <author>wuqimotou</author>
-  <guid>https://wuqimotou.github.io/posts/6278535/</guid>
+  <guid>https://wuqimotou.github.io/posts/start/</guid>
   <description><![CDATA[<p><img loading="lazy" src="https://s21.ax1x.com/2024/03/05/pFD6WCj.png" alt="familyguy" srcset="https://s21.ax1x.com/2024/03/05/pFD6WCj.png?size=small, https://s21.ax1x.com/2024/03/05/pFD6WCj.png?size=medium 1.5x, https://s21.ax1x.com/2024/03/05/pFD6WCj.png?size=large 2x" data-title="familyguy" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/></p>]]></description>
 </item>
 </channel>

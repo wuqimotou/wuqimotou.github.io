@@ -3,7 +3,7 @@ title: 【啃透Java基础知识】1什么是Java？关于Java你需要知道的
 subtitle:
 
 date: 2024-03-06T21:16:54+08:00
-slug: 26161e0
+slug: Things you need to know about Java
 
 description: "啃透Java基础知识第一期"
 

@@ -3,7 +3,7 @@ title: Java编程中关于转义字符\n换行与\r回车的区别
 subtitle:
 
 date: 2024-03-10T12:12:43+08:00
-slug: 26161e0
+slug: The difference between \n and \r 
 
 description: "Java编程中转义字符\r回车和\n换行的区别"
 

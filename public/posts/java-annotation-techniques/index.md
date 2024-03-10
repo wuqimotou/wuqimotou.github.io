@@ -1,56 +1,9 @@
----
-title: 你不能不知道的Java注释技巧
-subtitle:
+# 你不能不知道的Java注释技巧
 
-date: 2024-03-10T21:32:06+08:00
-slug: Java annotation techniques
-
-description: "你不能不知道的Java注释技巧"
-
-keywords: "注释, Java, Java知识, 帮助文档, 文档注释"
-
-draft: false
-
-comment: false
-
-tags:
-  - Java小知识
-
-
-categories:
-  - study
-author:
-  name: "wuqimotou"
-  link:
-  email: "wuqimotou@163.com"
-  avatar: "https://s11.ax1x.com/2024/03/05/pFDNaVI.png"
-license:
-weight: 0
-hiddenFromHomePage: false
-hiddenFromSearch: false
-hiddenFromRss: false
-hiddenFromRelated: false
-summary:
-resources:
-  - name: featured-image
-    src: featured-image.jpg
-  - name: featured-image-preview
-    src: featured-image-preview.jpg
-toc: true
-math: false
-lightgallery: false
-password:
-message:
-repost:
-  enable: true
-  url:
-
-# See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
----
 
  参考资料：《Java 核心技术卷 I》
 
-<!--more-->
+&lt;!--more--&gt;
 
 # Java中的注释
 
@@ -71,11 +24,11 @@ Java中单行注释通常使用`//`来实现。放在`//`符号后的文字不�
 ~~~java
 public class hello {
     public static void main(String[] args){
-        //下面这个方法会打印出"Hello world!"
-        System.out.println("Hello world！");
+        //下面这个方法会打印出&#34;Hello world!&#34;
+        System.out.println(&#34;Hello world！&#34;);
     }
 }
->>> Hello world!
+&gt;&gt;&gt; Hello world!
 ~~~
 
 ## 多行注释
@@ -85,12 +38,12 @@ public class hello {
 ~~~java
 public class hello {
     public static void main(String[] args){
-        //下面这个方法会打印出"Hello world!"
+        //下面这个方法会打印出&#34;Hello world!&#34;
         //这是第二行了
-        System.out.println("Hello world！");
+        System.out.println(&#34;Hello world！&#34;);
     }
 }
->>> Hello world!
+&gt;&gt;&gt; Hello world!
 ~~~
 
 但这样每换一行就要输入一次单行注释符不方便，我们可以利用多行注释符 `/**/` 来实现多行注释，如：
@@ -99,14 +52,14 @@ public class hello {
 public class hello {
     public static void main(String[] args){
         /*
-          下面这个方法会打印出"Hello world!"
+          下面这个方法会打印出&#34;Hello world!&#34;
           这是第二行了
           第三行
         */
-        System.out.println("Hello world！");
+        System.out.println(&#34;Hello world！&#34;);
     }
 }
->>> Hello world!
+&gt;&gt;&gt; Hello world!
 ~~~
 
 需要注意的是，多行注释符 `/**/`  不能嵌套使用，如：
@@ -115,7 +68,7 @@ public class hello {
 public class hello {
     public static void main(String[] args){
         /*
-          下面这个方法会打印出"Hello world!"
+          下面这个方法会打印出&#34;Hello world!&#34;
           这是第二行了
         /*
           第三行
@@ -123,10 +76,10 @@ public class hello {
         */
           第五行
         */
-        System.out.println("Hello world！");
+        System.out.println(&#34;Hello world！&#34;);
     }
 }
->>> java: 非法的表达式开始
+&gt;&gt;&gt; java: 非法的表达式开始
 ~~~
 
 因为多行注释符的匹配是按照 `/*`开始，之后的全是注释直到遇见了`*/`。而嵌套使用多行注释符时会导致注释的提前结束，进而产生语法错误。
@@ -145,11 +98,11 @@ public class hello {
  * @author wuqimotou
  * @version 1.0
  * @since 
- * @see "test"
+ * @see &#34;test&#34;
  */
 public class hello {
     public static void main(String[] args){
-        System.out.println("Hello world！");
+        System.out.println(&#34;Hello world！&#34;);
     }
 
 }
@@ -177,8 +130,8 @@ public class hello {
      * @return 不返回值
      */
     public static void main(String[] args){
-        System.out.println("Hello world！");
-        System.out.println("Hello world！");
+        System.out.println(&#34;Hello world！&#34;);
+        System.out.println(&#34;Hello world！&#34;);
     }
 }
 ~~~
@@ -190,8 +143,8 @@ public class hello {
 以*@see* 举例来说明*@see* 和*@link* 插入超链接的书写方法，有三种方式：
 
 - *@see* *package.class#feature label*
-- *@see* *\<a href="..."> label \</a>*
-- *@see* *"text"*
+- *@see* *\&lt;a href=&#34;...&#34;&gt; label \&lt;/a&gt;*
+- *@see* *&#34;text&#34;*
 
 第一种方式可以用来插入一个指向某方法的超链接，而只需要提供包名，类名与方法名。例子如下：
 
@@ -205,7 +158,7 @@ public class hello {
 
 第二种方式可以用于插入任意的URL，如下：
 
-`@see <a href="www.baidu.com"> 百度 </a>`
+`@see &lt;a href=&#34;www.baidu.com&#34;&gt; 百度 &lt;/a&gt;`
 
 第三种方式用于添加文本。
 
@@ -224,3 +177,10 @@ public class hello {
 `javadoc -d docDirectory name1 name2`
 
 其中docDirectory为提取出的帮助文档所存放的目录，name1 name2为要提取的源文件。
+
+
+---
+
+> 作者: wuqimotou  
+> URL: https://wuqimotou.github.io/posts/java-annotation-techniques/  
+
