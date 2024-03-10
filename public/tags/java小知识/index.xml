@@ -4,7 +4,15 @@
     <link>https://wuqimotou.github.io/tags/java%E5%B0%8F%E7%9F%A5%E8%AF%86/</link>
     <description>Java小知识 - 标签 | 磨头小屋</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>wuqimotou@163.com (wuqimotou)</managingEditor>
-      <webMaster>wuqimotou@163.com (wuqimotou)</webMaster><copyright>wuqimotou</copyright><lastBuildDate>Sun, 10 Mar 2024 12:12:43 &#43;0800</lastBuildDate><atom:link href="https://wuqimotou.github.io/tags/java%E5%B0%8F%E7%9F%A5%E8%AF%86/" rel="self" type="application/rss+xml" /><item>
+      <webMaster>wuqimotou@163.com (wuqimotou)</webMaster><copyright>wuqimotou</copyright><lastBuildDate>Sun, 10 Mar 2024 21:32:06 &#43;0800</lastBuildDate><atom:link href="https://wuqimotou.github.io/tags/java%E5%B0%8F%E7%9F%A5%E8%AF%86/" rel="self" type="application/rss+xml" /><item>
+  <title>你不能不知道的Java注释技巧</title>
+  <link>https://wuqimotou.github.io/posts/26161/</link>
+  <pubDate>Sun, 10 Mar 2024 21:32:06 &#43;0800</pubDate>
+  <author>wuqimotou</author>
+  <guid>https://wuqimotou.github.io/posts/26161/</guid>
+  <description><![CDATA[<p>参考资料：《Java 核心技术卷 I》</p>]]></description>
+</item>
+<item>
   <title>Java编程中关于转义字符\n换行与\r回车的区别</title>
   <link>https://wuqimotou.github.io/posts/26161/</link>
   <pubDate>Sun, 10 Mar 2024 12:12:43 &#43;0800</pubDate>
