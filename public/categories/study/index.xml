@@ -4,7 +4,16 @@
     <link>https://wuqimotou.github.io/categories/study/</link>
     <description>Study - 分类 | 磨头小屋</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>wuqimotou@163.com (wuqimotou)</managingEditor>
-      <webMaster>wuqimotou@163.com (wuqimotou)</webMaster><copyright>wuqimotou</copyright><lastBuildDate>Sun, 10 Mar 2024 21:32:06 &#43;0800</lastBuildDate><atom:link href="https://wuqimotou.github.io/categories/study/" rel="self" type="application/rss+xml" /><item>
+      <webMaster>wuqimotou@163.com (wuqimotou)</webMaster><copyright>wuqimotou</copyright><lastBuildDate>Mon, 11 Mar 2024 23:10:03 &#43;0800</lastBuildDate><atom:link href="https://wuqimotou.github.io/categories/study/" rel="self" type="application/rss+xml" /><item>
+  <title>【啃透Java基础知识】2Java基本数据类型与字符串</title>
+  <link>https://wuqimotou.github.io/posts/java-basic-data-types-and-strings/</link>
+  <pubDate>Mon, 11 Mar 2024 23:10:03 &#43;0800</pubDate>
+  <author>wuqimotou</author>
+  <guid>https://wuqimotou.github.io/posts/java-basic-data-types-and-strings/</guid>
+  <description><![CDATA[<p>参考资料：《Java 核心技术卷 I》</p>
+<p>本章介绍了关于Java基本数据类型和String字符串类的知识。</p>]]></description>
+</item>
+<item>
   <title>你不能不知道的Java注释技巧</title>
   <link>https://wuqimotou.github.io/posts/java-annotation-techniques/</link>
   <pubDate>Sun, 10 Mar 2024 21:32:06 &#43;0800</pubDate>
