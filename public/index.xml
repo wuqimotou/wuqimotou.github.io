@@ -4,9 +4,26 @@
     <link>https://wuqimotou.github.io/</link>
     <description>这里是磨头的神秘小屋，这里会有各种有趣的知识分享。</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>wuqimotou@163.com (wuqimotou)</managingEditor>
-      <webMaster>wuqimotou@163.com (wuqimotou)</webMaster><copyright>wuqimotou</copyright><lastBuildDate>Tue, 12 Mar 2024 16:06:51 &#43;0800</lastBuildDate>
+      <webMaster>wuqimotou@163.com (wuqimotou)</webMaster><copyright>wuqimotou</copyright><lastBuildDate>Wed, 13 Mar 2024 23:11:08 &#43;0800</lastBuildDate>
       <atom:link href="https://wuqimotou.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+  <title>【啃透Java基础知识】4Java流程控制</title>
+  <link>https://wuqimotou.github.io/posts/java-process-control/</link>
+  <pubDate>Wed, 13 Mar 2024 23:11:08 &#43;0800</pubDate>
+  <author>wuqimotou</author>
+  <guid>https://wuqimotou.github.io/posts/java-process-control/</guid>
+  <description><![CDATA[<p>参考资料：《Java 核心技术卷 I》</p>
+<p>本章介绍了关于Java基流程控制相关的知识。</p>]]></description>
+</item>
+<item>
+  <title>【大数】范围超越Long和Double的数据类型</title>
+  <link>https://wuqimotou.github.io/posts/biginteger/</link>
+  <pubDate>Wed, 13 Mar 2024 22:49:50 &#43;0800</pubDate>
+  <author>wuqimotou</author>
+  <guid>https://wuqimotou.github.io/posts/biginteger/</guid>
+  <description><![CDATA[<p>精度大于<em>long</em>和<em>double</em>的数据类型</p>]]></description>
+</item>
+<item>
   <title>【啃透Java基础知识】3Java基本运算符</title>
   <link>https://wuqimotou.github.io/posts/java-basic-operators/</link>
   <pubDate>Tue, 12 Mar 2024 16:06:51 &#43;0800</pubDate>
@@ -25,7 +42,7 @@
 <p>本章介绍了关于Java基本数据类型和String字符串类的知识。</p>]]></description>
 </item>
 <item>
-  <title>你不能不知道的Java注释技巧</title>
+  <title>【注释】你不能不知道的Java注释技巧</title>
   <link>https://wuqimotou.github.io/posts/java-annotation-techniques/</link>
   <pubDate>Sun, 10 Mar 2024 21:32:06 &#43;0800</pubDate>
   <author>wuqimotou</author>
@@ -33,7 +50,7 @@
   <description><![CDATA[<p>参考资料：《Java 核心技术卷 I》</p>]]></description>
 </item>
 <item>
-  <title>Java编程中关于转义字符\n换行与\r回车的区别</title>
+  <title>【换行与回车】关于转义字符\n换行与\r回车的区别</title>
   <link>https://wuqimotou.github.io/posts/the-difference-between-%5Cn-and-%5Cr/</link>
   <pubDate>Sun, 10 Mar 2024 12:12:43 &#43;0800</pubDate>
   <author>wuqimotou</author>
