@@ -10,7 +10,7 @@
 <meta name="description" content="啃透Java基础知识第二期" /><meta name="keywords" content='java,, java基础知识,, java学习,, 数据类型,, 字符串' /><meta itemprop="name" content="【啃透Java基础知识】2Java基本数据类型与字符串">
 <meta itemprop="description" content="啃透Java基础知识第二期"><meta itemprop="datePublished" content="2024-03-11T23:10:03+08:00" />
 <meta itemprop="dateModified" content="2024-03-11T23:10:03+08:00" />
-<meta itemprop="wordCount" content="3416">
+<meta itemprop="wordCount" content="3424">
 <meta itemprop="keywords" content="啃透Java基础知识," /><meta property="og:title" content="【啃透Java基础知识】2Java基本数据类型与字符串" />
 <meta property="og:description" content="啃透Java基础知识第二期" />
 <meta property="og:type" content="article" />
@@ -34,7 +34,7 @@
     "mainEntityOfPage": {
       "@type": "WebPage",
       "@id": "https:\/\/wuqimotou.github.io\/posts\/java-basic-data-types-and-strings\/"
-    },"image": ["https:\/\/wuqimotou.github.io\/images\/avatar.png"],"genre": "posts","keywords": "啃透Java基础知识","wordcount":  3416 ,
+    },"image": ["https:\/\/wuqimotou.github.io\/images\/avatar.png"],"genre": "posts","keywords": "啃透Java基础知识","wordcount":  3424 ,
     "url": "https:\/\/wuqimotou.github.io\/posts\/java-basic-data-types-and-strings\/","datePublished": "2024-03-11T23:10:03+08:00","dateModified": "2024-03-11T23:10:03+08:00","license": "wuqimotou","publisher": {
       "@type": "Organization",
       "name": "wuqimotou","logo": "https:\/\/wuqimotou.github.io\/images\/avatar.png"},"author": {
@@ -244,7 +244,7 @@ color="0，0，0" opacity='0.7' zIndex="-2" count="30" src="//cdn.bootcss.com/ca
   <article class="page single">
     <div class="header"><h1 class="single-title animate__animated animate__flipInX"><span title="转载" class="icon-repost"><i class="fa-solid fa-share fa-fw" aria-hidden="true"></i></span><span>【啃透Java基础知识】2Java基本数据类型与字符串</span>
       </h1></div><div class="post-meta">
-      <div class="post-meta-line"><span class="post-author"><span class="author"><img loading="lazy" src="https://s11.ax1x.com/2024/03/05/pFDNaVI.png" alt="wuqimotou" data-title="wuqimotou" class="avatar" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/>&nbsp;wuqimotou</span></span><span class="post-included-in">&nbsp;收录于 <a href="/categories/study/" class="post-category" title="分类 - Study"><i class="fa-regular fa-folder fa-fw" aria-hidden="true"></i> Study</a></span></div><div class="post-meta-line"><span title="发布于 2024-03-11 23:10:03"><i class="fa-solid fa-calendar-days fa-fw me-1" aria-hidden="true"></i><time datetime="2024-03-11">2024-03-11</time></span>&nbsp;<span title="3416 字"><i class="fa-solid fa-pencil-alt fa-fw me-1" aria-hidden="true"></i>约 3500 字</span>&nbsp;</div>
+      <div class="post-meta-line"><span class="post-author"><span class="author"><img loading="lazy" src="https://s11.ax1x.com/2024/03/05/pFDNaVI.png" alt="wuqimotou" data-title="wuqimotou" class="avatar" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/>&nbsp;wuqimotou</span></span><span class="post-included-in">&nbsp;收录于 <a href="/categories/study/" class="post-category" title="分类 - Study"><i class="fa-regular fa-folder fa-fw" aria-hidden="true"></i> Study</a></span></div><div class="post-meta-line"><span title="发布于 2024-03-11 23:10:03"><i class="fa-solid fa-calendar-days fa-fw me-1" aria-hidden="true"></i><time datetime="2024-03-11">2024-03-11</time></span>&nbsp;<span title="3424 字"><i class="fa-solid fa-pencil-alt fa-fw me-1" aria-hidden="true"></i>约 3500 字</span>&nbsp;</div>
     </div><div class="details toc" id="toc-static" data-kept="false">
         <div class="details-summary toc-title">
           <span>目录</span>
@@ -555,18 +555,18 @@ color="0，0，0" opacity='0.7' zIndex="-2" count="30" src="//cdn.bootcss.com/ca
 </span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="o">&gt;&gt;&gt;</span><span class="w"> </span><span class="n">java</span><span class="p">:</span><span class="w"> </span><span class="n">可能尚未初始化变量a</span></span></span></code></pre></td></tr></table>
 </div>
 </div><h2 id="常量" class="heading-element">
-  <a href="#%e5%b8%b8%e9%87%8f" class="heading-mark"></a>常量</h2><p>在Java中，可以使用关键字<code>final</code> 指示常量。</p>
+  <a href="#%e5%b8%b8%e9%87%8f" class="heading-mark"></a>1 常量</h2><p>在Java中，可以使用关键字<code>final</code> 指示常量。</p>
 <p><code>final</code> 表示该变量只能被赋值一次，无法被更改。</p>
 <p>通常常量名使用全大写。</p>
 <h2 id="枚举" class="heading-element">
-  <a href="#%e6%9e%9a%e4%b8%be" class="heading-mark"></a>枚举</h2><p>当一个变量的取值为有限个选择时，可以将这有限个选择声明为枚举类型。</p>
+  <a href="#%e6%9e%9a%e4%b8%be" class="heading-mark"></a>2 枚举</h2><p>当一个变量的取值为有限个选择时，可以将这有限个选择声明为枚举类型。</p>
 <p><code>enum Size { SMALL, MEDIUM, LARGE, EXTRA_LARGE};</code></p>
 <p>声明这种枚举类型的变量，其值为枚举类型中的某一值，或者为代表没有设置任何值的<em>null</em> 。</p>
 <p><code>Size s = Size.MEDIUM;</code></p>
 <h1 id="java字符串" class="heading-element">
   <a href="#java%e5%ad%97%e7%ac%a6%e4%b8%b2" class="heading-mark"></a>Java字符串</h1><p>Java中没有内置字符串数据类型，而是使用<em>String</em>类来当作字符串使用。</p>
 <p>字符串用<code>&quot;&quot;</code>表示。</p>
-<div class="highlight" id="id-7"><div class="chroma">
+<div class="highlight" id="id-1"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
@@ -588,8 +588,8 @@ color="0，0，0" opacity='0.7' zIndex="-2" count="30" src="//cdn.bootcss.com/ca
 </span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="o">&gt;&gt;&gt;</span><span class="w"> </span><span class="n">abc</span></span></span></code></pre></td></tr></table>
 </div>
 </div><h2 id="子串" class="heading-element">
-  <a href="#%e5%ad%90%e4%b8%b2" class="heading-mark"></a>子串</h2><p><em>String</em>类可以使用<em>substring</em>方法来提取子串：</p>
-<div class="highlight" id="id-8"><div class="chroma">
+  <a href="#%e5%ad%90%e4%b8%b2" class="heading-mark"></a>1 子串</h2><p><em>String</em>类可以使用<em>substring</em>方法来提取子串：</p>
+<div class="highlight" id="id-2"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
@@ -613,8 +613,8 @@ color="0，0，0" opacity='0.7' zIndex="-2" count="30" src="//cdn.bootcss.com/ca
 </span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="o">&gt;&gt;&gt;</span><span class="w"> </span><span class="n">ab</span></span></span></code></pre></td></tr></table>
 </div>
 </div><h2 id="字符串拼接" class="heading-element">
-  <a href="#%e5%ad%97%e7%ac%a6%e4%b8%b2%e6%8b%bc%e6%8e%a5" class="heading-mark"></a>字符串拼接</h2><p><em>String</em>类允许使用+进行字符串拼接，任意非字符串的值与字符串拼接后都会变成字符串。</p>
-<div class="highlight" id="id-9"><div class="chroma">
+  <a href="#%e5%ad%97%e7%ac%a6%e4%b8%b2%e6%8b%bc%e6%8e%a5" class="heading-mark"></a>2 字符串拼接</h2><p><em>String</em>类允许使用+进行字符串拼接，任意非字符串的值与字符串拼接后都会变成字符串。</p>
+<div class="highlight" id="id-3"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
@@ -670,7 +670,7 @@ color="0，0，0" opacity='0.7' zIndex="-2" count="30" src="//cdn.bootcss.com/ca
     </div>
   </div>
 <h2 id="修改字符串" class="heading-element">
-  <a href="#%e4%bf%ae%e6%94%b9%e5%ad%97%e7%ac%a6%e4%b8%b2" class="heading-mark"></a>修改字符串</h2><p>字符串是不可变的，无法直接对字符串中的某个字符进行修改。</p>
+  <a href="#%e4%bf%ae%e6%94%b9%e5%ad%97%e7%ac%a6%e4%b8%b2" class="heading-mark"></a>3 修改字符串</h2><p>字符串是不可变的，无法直接对字符串中的某个字符进行修改。</p>
 <p>如果想要对一个字符串进行修改，可以利用提取子串+拼接的方法。</p>
  <div class="details admonition tip open">
     <div class="details-summary admonition-title">
@@ -681,7 +681,7 @@ color="0，0，0" opacity='0.7' zIndex="-2" count="30" src="//cdn.bootcss.com/ca
     </div>
   </div>
 <h2 id="字符串相等" class="heading-element">
-  <a href="#%e5%ad%97%e7%ac%a6%e4%b8%b2%e7%9b%b8%e7%ad%89" class="heading-mark"></a>字符串相等</h2><p><em>String</em>类提供了<em>equals</em>方法来判断两个字符串是否相等，返回值为<em>true</em>或<em>false</em>。</p>
+  <a href="#%e5%ad%97%e7%ac%a6%e4%b8%b2%e7%9b%b8%e7%ad%89" class="heading-mark"></a>4 字符串相等</h2><p><em>String</em>类提供了<em>equals</em>方法来判断两个字符串是否相等，返回值为<em>true</em>或<em>false</em>。</p>
 <p><code>&quot;abc&quot;.equals(&quot;abc&quot;);</code></p>
 <p>同时提供了忽略大小写的<em>equalsIgnoreCase</em>方法。</p>
 <p><code>&quot;abc&quot;.equals(&quot;ABc&quot;);</code></p>
@@ -694,7 +694,7 @@ color="0，0，0" opacity='0.7' zIndex="-2" count="30" src="//cdn.bootcss.com/ca
     </div>
   </div>
 <h2 id="空串" class="heading-element">
-  <a href="#%e7%a9%ba%e4%b8%b2" class="heading-mark"></a>空串</h2><p>空串是长度为0的字符串，可以用</p>
+  <a href="#%e7%a9%ba%e4%b8%b2" class="heading-mark"></a>5 空串</h2><p>空串是长度为0的字符串，可以用</p>
 <p><code>if(str.length() == 0)</code></p>
 <p>或</p>
 <p><code>if(str.equals(&quot;&quot;))</code></p>
@@ -709,13 +709,13 @@ color="0，0，0" opacity='0.7' zIndex="-2" count="30" src="//cdn.bootcss.com/ca
     </div>
   </div>
 <h2 id="生成字符串" class="heading-element">
-  <a href="#%e7%94%9f%e6%88%90%e5%ad%97%e7%ac%a6%e4%b8%b2" class="heading-mark"></a>生成字符串</h2><p>在用若干个字符串生成新的字符串时，使用拼接过于效率低下，因此可以使用</p>
+  <a href="#%e7%94%9f%e6%88%90%e5%ad%97%e7%ac%a6%e4%b8%b2" class="heading-mark"></a>6 生成字符串</h2><p>在用若干个字符串生成新的字符串时，使用拼接过于效率低下，因此可以使用</p>
 <ul>
 <li><em>StringBuilder</em>类</li>
 <li><em>StringBuffer</em>类</li>
 </ul>
 <p>这两个类的API是相同的，区别在于<em>StringBuilder</em>类效率更高，却只能单线程运行，<em>StringBuffer</em>类运行采用多线程方式添加或删除字符，但效率更低。</p>
-<div class="highlight" id="id-10"><div class="chroma">
+<div class="highlight" id="id-4"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2

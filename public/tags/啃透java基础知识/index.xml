@@ -4,14 +4,23 @@
     <link>https://wuqimotou.github.io/tags/%E5%95%83%E9%80%8Fjava%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</link>
     <description>啃透Java基础知识 - 标签 | 磨头小屋</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>wuqimotou@163.com (wuqimotou)</managingEditor>
-      <webMaster>wuqimotou@163.com (wuqimotou)</webMaster><copyright>wuqimotou</copyright><lastBuildDate>Wed, 13 Mar 2024 23:11:08 &#43;0800</lastBuildDate><atom:link href="https://wuqimotou.github.io/tags/%E5%95%83%E9%80%8Fjava%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/" rel="self" type="application/rss+xml" /><item>
+      <webMaster>wuqimotou@163.com (wuqimotou)</webMaster><copyright>wuqimotou</copyright><lastBuildDate>Sat, 16 Mar 2024 22:08:23 &#43;0800</lastBuildDate><atom:link href="https://wuqimotou.github.io/tags/%E5%95%83%E9%80%8Fjava%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/" rel="self" type="application/rss+xml" /><item>
+  <title>【啃透Java基础知识】5Java中的数组</title>
+  <link>https://wuqimotou.github.io/posts/java-array/</link>
+  <pubDate>Sat, 16 Mar 2024 22:08:23 &#43;0800</pubDate>
+  <author>wuqimotou</author>
+  <guid>https://wuqimotou.github.io/posts/java-array/</guid>
+  <description><![CDATA[<p>参考资料：《Java 核心技术卷 I》</p>
+<p>本章介绍了关于Java数组的知识。</p>]]></description>
+</item>
+<item>
   <title>【啃透Java基础知识】4Java流程控制</title>
   <link>https://wuqimotou.github.io/posts/java-process-control/</link>
   <pubDate>Wed, 13 Mar 2024 23:11:08 &#43;0800</pubDate>
   <author>wuqimotou</author>
   <guid>https://wuqimotou.github.io/posts/java-process-control/</guid>
   <description><![CDATA[<p>参考资料：《Java 核心技术卷 I》</p>
-<p>本章介绍了关于Java基流程控制相关的知识。</p>]]></description>
+<p>本章介绍了关于Java流程控制相关的知识。</p>]]></description>
 </item>
 <item>
   <title>【啃透Java基础知识】3Java基本运算符</title>
