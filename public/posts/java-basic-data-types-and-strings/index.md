@@ -417,5 +417,5 @@ public class hello {
 ---
 
 > 作者: wuqimotou  
-> URL: https://wuqimotou.github.io/posts/java-basic-data-types-and-strings/  
+> URL: http://localhost:1313/posts/java-basic-data-types-and-strings/  
 

@@ -1,51 +1,51 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>啃透Java基础知识 - 标签 - 磨头小屋</title>
-    <link>https://wuqimotou.github.io/tags/%E5%95%83%E9%80%8Fjava%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</link>
+    <link>http://localhost:1313/tags/%E5%95%83%E9%80%8Fjava%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</link>
     <description>啃透Java基础知识 - 标签 | 磨头小屋</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>wuqimotou@163.com (wuqimotou)</managingEditor>
-      <webMaster>wuqimotou@163.com (wuqimotou)</webMaster><copyright>wuqimotou</copyright><lastBuildDate>Sat, 16 Mar 2024 22:08:23 &#43;0800</lastBuildDate><atom:link href="https://wuqimotou.github.io/tags/%E5%95%83%E9%80%8Fjava%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/" rel="self" type="application/rss+xml" /><item>
+      <webMaster>wuqimotou@163.com (wuqimotou)</webMaster><copyright>wuqimotou</copyright><lastBuildDate>Sat, 16 Mar 2024 22:08:23 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E5%95%83%E9%80%8Fjava%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/" rel="self" type="application/rss+xml" /><item>
   <title>【啃透Java基础知识】5Java中的数组</title>
-  <link>https://wuqimotou.github.io/posts/java-array/</link>
+  <link>http://localhost:1313/posts/java-array/</link>
   <pubDate>Sat, 16 Mar 2024 22:08:23 &#43;0800</pubDate>
   <author>wuqimotou</author>
-  <guid>https://wuqimotou.github.io/posts/java-array/</guid>
+  <guid>http://localhost:1313/posts/java-array/</guid>
   <description><![CDATA[<p>参考资料：《Java 核心技术卷 I》</p>
 <p>本章介绍了关于Java数组的知识。</p>]]></description>
 </item>
 <item>
   <title>【啃透Java基础知识】4Java流程控制</title>
-  <link>https://wuqimotou.github.io/posts/java-process-control/</link>
+  <link>http://localhost:1313/posts/java-process-control/</link>
   <pubDate>Wed, 13 Mar 2024 23:11:08 &#43;0800</pubDate>
   <author>wuqimotou</author>
-  <guid>https://wuqimotou.github.io/posts/java-process-control/</guid>
+  <guid>http://localhost:1313/posts/java-process-control/</guid>
   <description><![CDATA[<p>参考资料：《Java 核心技术卷 I》</p>
 <p>本章介绍了关于Java流程控制相关的知识。</p>]]></description>
 </item>
 <item>
   <title>【啃透Java基础知识】3Java基本运算符</title>
-  <link>https://wuqimotou.github.io/posts/java-basic-operators/</link>
+  <link>http://localhost:1313/posts/java-basic-operators/</link>
   <pubDate>Tue, 12 Mar 2024 16:06:51 &#43;0800</pubDate>
   <author>wuqimotou</author>
-  <guid>https://wuqimotou.github.io/posts/java-basic-operators/</guid>
+  <guid>http://localhost:1313/posts/java-basic-operators/</guid>
   <description><![CDATA[<p>参考资料：《Java 核心技术卷 I》</p>
 <p>本章介绍了关于Java基本运算符的知识。</p>]]></description>
 </item>
 <item>
   <title>【啃透Java基础知识】2Java基本数据类型与字符串</title>
-  <link>https://wuqimotou.github.io/posts/java-basic-data-types-and-strings/</link>
+  <link>http://localhost:1313/posts/java-basic-data-types-and-strings/</link>
   <pubDate>Mon, 11 Mar 2024 23:10:03 &#43;0800</pubDate>
   <author>wuqimotou</author>
-  <guid>https://wuqimotou.github.io/posts/java-basic-data-types-and-strings/</guid>
+  <guid>http://localhost:1313/posts/java-basic-data-types-and-strings/</guid>
   <description><![CDATA[<p>参考资料：《Java 核心技术卷 I》</p>
 <p>本章介绍了关于Java基本数据类型和String字符串类的知识。</p>]]></description>
 </item>
 <item>
   <title>【啃透Java基础知识】1什么是Java？关于Java你需要知道的一些事</title>
-  <link>https://wuqimotou.github.io/posts/things-you-need-to-know-about-java/</link>
+  <link>http://localhost:1313/posts/things-you-need-to-know-about-java/</link>
   <pubDate>Wed, 06 Mar 2024 21:16:54 &#43;0800</pubDate>
   <author>wuqimotou</author>
-  <guid>https://wuqimotou.github.io/posts/things-you-need-to-know-about-java/</guid>
+  <guid>http://localhost:1313/posts/things-you-need-to-know-about-java/</guid>
   <description><![CDATA[<p>参考资料：《Java 核心技术卷 I》</p>
 <p>本章简单介绍了一些关于Java的背景知识。</p>]]></description>
 </item>

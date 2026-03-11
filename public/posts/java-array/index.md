@@ -223,5 +223,5 @@ public class hello {
 ---
 
 > 作者: wuqimotou  
-> URL: https://wuqimotou.github.io/posts/java-array/  
+> URL: http://localhost:1313/posts/java-array/  
 

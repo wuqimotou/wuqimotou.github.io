@@ -1,95 +1,95 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>磨头小屋</title>
-    <link>https://wuqimotou.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>这里是磨头的神秘小屋，这里会有各种有趣的知识分享。</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>wuqimotou@163.com (wuqimotou)</managingEditor>
-      <webMaster>wuqimotou@163.com (wuqimotou)</webMaster><copyright>wuqimotou</copyright><lastBuildDate>Mon, 19 Aug 2024 16:48:51 &#43;0800</lastBuildDate>
-      <atom:link href="https://wuqimotou.github.io/index.xml" rel="self" type="application/rss+xml" />
+      <webMaster>wuqimotou@163.com (wuqimotou)</webMaster><copyright>wuqimotou</copyright><lastBuildDate>Mon, 21 Oct 2024 22:22:54 &#43;0800</lastBuildDate>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+  <title>Linux基础命令</title>
+  <link>http://localhost:1313/posts/linux-command/</link>
+  <pubDate>Mon, 21 Oct 2024 22:22:54 &#43;0800</pubDate>
+  <author>wuqimotou</author>
+  <guid>http://localhost:1313/posts/linux-command/</guid>
+  <description><![CDATA[“linux基础命令”]]></description>
+</item>
+<item>
   <title>为什么游戏可以作为第九艺术的载体？</title>
-  <link>https://wuqimotou.github.io/posts/why-can-games-be-used-as-a-vehicle-for-the-ninth-art/</link>
+  <link>http://localhost:1313/posts/why-can-games-be-used-as-a-vehicle-for-the-ninth-art/</link>
   <pubDate>Mon, 19 Aug 2024 16:48:51 &#43;0800</pubDate>
   <author>wuqimotou</author>
-  <guid>https://wuqimotou.github.io/posts/why-can-games-be-used-as-a-vehicle-for-the-ninth-art/</guid>
+  <guid>http://localhost:1313/posts/why-can-games-be-used-as-a-vehicle-for-the-ninth-art/</guid>
   <description><![CDATA[<p><img loading="lazy" src="https://s21.ax1x.com/2024/08/19/pAPw3gf.png" alt="https://s21.ax1x.com/2024/08/19/pAPw3gf.png" srcset="https://s21.ax1x.com/2024/08/19/pAPw3gf.png?size=small, https://s21.ax1x.com/2024/08/19/pAPw3gf.png?size=medium 1.5x, https://s21.ax1x.com/2024/08/19/pAPw3gf.png?size=large 2x" data-title="https://s21.ax1x.com/2024/08/19/pAPw3gf.png" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/></p>]]></description>
 </item>
 <item>
   <title>【啃透Java基础知识】5Java中的数组</title>
-  <link>https://wuqimotou.github.io/posts/java-array/</link>
+  <link>http://localhost:1313/posts/java-array/</link>
   <pubDate>Sat, 16 Mar 2024 22:08:23 &#43;0800</pubDate>
   <author>wuqimotou</author>
-  <guid>https://wuqimotou.github.io/posts/java-array/</guid>
+  <guid>http://localhost:1313/posts/java-array/</guid>
   <description><![CDATA[<p>参考资料：《Java 核心技术卷 I》</p>
 <p>本章介绍了关于Java数组的知识。</p>]]></description>
 </item>
 <item>
   <title>【啃透Java基础知识】4Java流程控制</title>
-  <link>https://wuqimotou.github.io/posts/java-process-control/</link>
+  <link>http://localhost:1313/posts/java-process-control/</link>
   <pubDate>Wed, 13 Mar 2024 23:11:08 &#43;0800</pubDate>
   <author>wuqimotou</author>
-  <guid>https://wuqimotou.github.io/posts/java-process-control/</guid>
+  <guid>http://localhost:1313/posts/java-process-control/</guid>
   <description><![CDATA[<p>参考资料：《Java 核心技术卷 I》</p>
 <p>本章介绍了关于Java流程控制相关的知识。</p>]]></description>
 </item>
 <item>
   <title>【大数】范围超越Long和Double的数据类型</title>
-  <link>https://wuqimotou.github.io/posts/biginteger/</link>
+  <link>http://localhost:1313/posts/biginteger/</link>
   <pubDate>Wed, 13 Mar 2024 22:49:50 &#43;0800</pubDate>
   <author>wuqimotou</author>
-  <guid>https://wuqimotou.github.io/posts/biginteger/</guid>
+  <guid>http://localhost:1313/posts/biginteger/</guid>
   <description><![CDATA[<p>精度大于<em>long</em>和<em>double</em>的数据类型</p>]]></description>
 </item>
 <item>
   <title>【啃透Java基础知识】3Java基本运算符</title>
-  <link>https://wuqimotou.github.io/posts/java-basic-operators/</link>
+  <link>http://localhost:1313/posts/java-basic-operators/</link>
   <pubDate>Tue, 12 Mar 2024 16:06:51 &#43;0800</pubDate>
   <author>wuqimotou</author>
-  <guid>https://wuqimotou.github.io/posts/java-basic-operators/</guid>
+  <guid>http://localhost:1313/posts/java-basic-operators/</guid>
   <description><![CDATA[<p>参考资料：《Java 核心技术卷 I》</p>
 <p>本章介绍了关于Java基本运算符的知识。</p>]]></description>
 </item>
 <item>
   <title>【啃透Java基础知识】2Java基本数据类型与字符串</title>
-  <link>https://wuqimotou.github.io/posts/java-basic-data-types-and-strings/</link>
+  <link>http://localhost:1313/posts/java-basic-data-types-and-strings/</link>
   <pubDate>Mon, 11 Mar 2024 23:10:03 &#43;0800</pubDate>
   <author>wuqimotou</author>
-  <guid>https://wuqimotou.github.io/posts/java-basic-data-types-and-strings/</guid>
+  <guid>http://localhost:1313/posts/java-basic-data-types-and-strings/</guid>
   <description><![CDATA[<p>参考资料：《Java 核心技术卷 I》</p>
 <p>本章介绍了关于Java基本数据类型和String字符串类的知识。</p>]]></description>
 </item>
 <item>
   <title>【注释】你不能不知道的Java注释技巧</title>
-  <link>https://wuqimotou.github.io/posts/java-annotation-techniques/</link>
+  <link>http://localhost:1313/posts/java-annotation-techniques/</link>
   <pubDate>Sun, 10 Mar 2024 21:32:06 &#43;0800</pubDate>
   <author>wuqimotou</author>
-  <guid>https://wuqimotou.github.io/posts/java-annotation-techniques/</guid>
+  <guid>http://localhost:1313/posts/java-annotation-techniques/</guid>
   <description><![CDATA[<p>参考资料：《Java 核心技术卷 I》</p>]]></description>
 </item>
 <item>
   <title>【换行与回车】关于转义字符\n换行与\r回车的区别</title>
-  <link>https://wuqimotou.github.io/posts/the-difference-between-%5Cn-and-%5Cr/</link>
+  <link>http://localhost:1313/posts/the-difference-between-%5Cn-and-%5Cr/</link>
   <pubDate>Sun, 10 Mar 2024 12:12:43 &#43;0800</pubDate>
   <author>wuqimotou</author>
-  <guid>https://wuqimotou.github.io/posts/the-difference-between-%5Cn-and-%5Cr/</guid>
+  <guid>http://localhost:1313/posts/the-difference-between-%5Cn-and-%5Cr/</guid>
   <description><![CDATA[<p>\n和\r有什么区别？</p>]]></description>
 </item>
 <item>
   <title>【啃透Java基础知识】1什么是Java？关于Java你需要知道的一些事</title>
-  <link>https://wuqimotou.github.io/posts/things-you-need-to-know-about-java/</link>
+  <link>http://localhost:1313/posts/things-you-need-to-know-about-java/</link>
   <pubDate>Wed, 06 Mar 2024 21:16:54 &#43;0800</pubDate>
   <author>wuqimotou</author>
-  <guid>https://wuqimotou.github.io/posts/things-you-need-to-know-about-java/</guid>
+  <guid>http://localhost:1313/posts/things-you-need-to-know-about-java/</guid>
   <description><![CDATA[<p>参考资料：《Java 核心技术卷 I》</p>
 <p>本章简单介绍了一些关于Java的背景知识。</p>]]></description>
-</item>
-<item>
-  <title>磨头小屋正式启动啦！</title>
-  <link>https://wuqimotou.github.io/posts/start/</link>
-  <pubDate>Tue, 05 Mar 2024 15:43:11 &#43;0800</pubDate>
-  <author>wuqimotou</author>
-  <guid>https://wuqimotou.github.io/posts/start/</guid>
-  <description><![CDATA[<p><img loading="lazy" src="https://s21.ax1x.com/2024/03/05/pFD6WCj.png" alt="familyguy" srcset="https://s21.ax1x.com/2024/03/05/pFD6WCj.png?size=small, https://s21.ax1x.com/2024/03/05/pFD6WCj.png?size=medium 1.5x, https://s21.ax1x.com/2024/03/05/pFD6WCj.png?size=large 2x" data-title="familyguy" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/></p>]]></description>
 </item>
 </channel>
 </rss>

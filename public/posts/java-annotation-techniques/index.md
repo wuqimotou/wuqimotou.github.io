@@ -182,5 +182,5 @@ public class hello {
 ---
 
 > 作者: wuqimotou  
-> URL: https://wuqimotou.github.io/posts/java-annotation-techniques/  
+> URL: http://localhost:1313/posts/java-annotation-techniques/  
 

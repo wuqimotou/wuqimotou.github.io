@@ -1,23 +1,23 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>漫谈 - 标签 - 磨头小屋</title>
-    <link>https://wuqimotou.github.io/tags/%E6%BC%AB%E8%B0%88/</link>
+    <link>http://localhost:1313/tags/%E6%BC%AB%E8%B0%88/</link>
     <description>漫谈 - 标签 | 磨头小屋</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>wuqimotou@163.com (wuqimotou)</managingEditor>
-      <webMaster>wuqimotou@163.com (wuqimotou)</webMaster><copyright>wuqimotou</copyright><lastBuildDate>Mon, 19 Aug 2024 16:48:51 &#43;0800</lastBuildDate><atom:link href="https://wuqimotou.github.io/tags/%E6%BC%AB%E8%B0%88/" rel="self" type="application/rss+xml" /><item>
+      <webMaster>wuqimotou@163.com (wuqimotou)</webMaster><copyright>wuqimotou</copyright><lastBuildDate>Mon, 19 Aug 2024 16:48:51 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E6%BC%AB%E8%B0%88/" rel="self" type="application/rss+xml" /><item>
   <title>为什么游戏可以作为第九艺术的载体？</title>
-  <link>https://wuqimotou.github.io/posts/why-can-games-be-used-as-a-vehicle-for-the-ninth-art/</link>
+  <link>http://localhost:1313/posts/why-can-games-be-used-as-a-vehicle-for-the-ninth-art/</link>
   <pubDate>Mon, 19 Aug 2024 16:48:51 &#43;0800</pubDate>
   <author>wuqimotou</author>
-  <guid>https://wuqimotou.github.io/posts/why-can-games-be-used-as-a-vehicle-for-the-ninth-art/</guid>
+  <guid>http://localhost:1313/posts/why-can-games-be-used-as-a-vehicle-for-the-ninth-art/</guid>
   <description><![CDATA[<p><img loading="lazy" src="https://s21.ax1x.com/2024/08/19/pAPw3gf.png" alt="https://s21.ax1x.com/2024/08/19/pAPw3gf.png" srcset="https://s21.ax1x.com/2024/08/19/pAPw3gf.png?size=small, https://s21.ax1x.com/2024/08/19/pAPw3gf.png?size=medium 1.5x, https://s21.ax1x.com/2024/08/19/pAPw3gf.png?size=large 2x" data-title="https://s21.ax1x.com/2024/08/19/pAPw3gf.png" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/></p>]]></description>
 </item>
 <item>
   <title>磨头小屋正式启动啦！</title>
-  <link>https://wuqimotou.github.io/posts/start/</link>
+  <link>http://localhost:1313/posts/start/</link>
   <pubDate>Tue, 05 Mar 2024 15:43:11 &#43;0800</pubDate>
   <author>wuqimotou</author>
-  <guid>https://wuqimotou.github.io/posts/start/</guid>
+  <guid>http://localhost:1313/posts/start/</guid>
   <description><![CDATA[<p><img loading="lazy" src="https://s21.ax1x.com/2024/03/05/pFD6WCj.png" alt="familyguy" srcset="https://s21.ax1x.com/2024/03/05/pFD6WCj.png?size=small, https://s21.ax1x.com/2024/03/05/pFD6WCj.png?size=medium 1.5x, https://s21.ax1x.com/2024/03/05/pFD6WCj.png?size=large 2x" data-title="familyguy" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/></p>]]></description>
 </item>
 </channel>

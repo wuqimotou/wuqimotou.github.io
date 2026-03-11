@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Linux - 标签 - 磨头小屋</title>
+    <link>http://localhost:1313/tags/linux/</link>
+    <description>Linux - 标签 | 磨头小屋</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>wuqimotou@163.com (wuqimotou)</managingEditor>
+      <webMaster>wuqimotou@163.com (wuqimotou)</webMaster><copyright>wuqimotou</copyright><lastBuildDate>Mon, 21 Oct 2024 22:22:54 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/linux/" rel="self" type="application/rss+xml" /><item>
+  <title>Linux基础命令</title>
+  <link>http://localhost:1313/posts/linux-command/</link>
+  <pubDate>Mon, 21 Oct 2024 22:22:54 &#43;0800</pubDate>
+  <author>wuqimotou</author>
+  <guid>http://localhost:1313/posts/linux-command/</guid>
+  <description><![CDATA[“linux基础命令”]]></description>
+</item>
+</channel>
+</rss>

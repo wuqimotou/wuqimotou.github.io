@@ -158,5 +158,5 @@ Java支持更新正在运行的程序的代码
 ---
 
 > 作者: wuqimotou  
-> URL: https://wuqimotou.github.io/posts/things-you-need-to-know-about-java/  
+> URL: http://localhost:1313/posts/things-you-need-to-know-about-java/  
 
